@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.6.1](https://github.com/taikoxyz/taiko-mono/compare/protocol-v1.6.0...protocol-v1.6.1) (2024-06-08)
+
+
+### Bug Fixes
+
+* **protocol:** fix an issue for `ProverSet.proposeBlock` ([#17521](https://github.com/taikoxyz/taiko-mono/issues/17521)) ([d3037ad](https://github.com/taikoxyz/taiko-mono/commit/d3037ad6551b5ae6353a360ae3677ec17cd00ec9))
+* **protocol:** fix ProverSet permission issue ([#17527](https://github.com/taikoxyz/taiko-mono/issues/17527)) ([98b47d4](https://github.com/taikoxyz/taiko-mono/commit/98b47d421697694db1926486410c08adbf4a6155))
+
 ## [1.6.0](https://github.com/taikoxyz/taiko-mono/compare/protocol-v1.5.0...protocol-v1.6.0) (2024-06-07)
 
 
