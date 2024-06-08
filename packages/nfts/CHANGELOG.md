@@ -1,5 +1,26 @@
 # Changelog
 
+## [1.1.0](https://github.com/taikoxyz/taiko-mono/compare/nfts-v1.0.0...nfts-v1.1.0) (2024-06-08)
+
+
+### Features
+
+* **bridge-ui:** release  ([#17071](https://github.com/taikoxyz/taiko-mono/issues/17071)) ([2fa3ae0](https://github.com/taikoxyz/taiko-mono/commit/2fa3ae0b2b2317a467709110c381878a3a9f8ec6))
+* **nfts:** add snaefell-nft smart contracts ([#17221](https://github.com/taikoxyz/taiko-mono/issues/17221)) ([ef3d7d5](https://github.com/taikoxyz/taiko-mono/commit/ef3d7d5c32e0687e273d149bc7ba1da5642fb9ba))
+* **nfts:** blacklist integration ([#17217](https://github.com/taikoxyz/taiko-mono/issues/17217)) ([7bc0683](https://github.com/taikoxyz/taiko-mono/commit/7bc0683c10afc2caa800c979b557cb9263d8e0d9))
+* **nfts:** mainnet deployments ([#17389](https://github.com/taikoxyz/taiko-mono/issues/17389)) ([ca90a4c](https://github.com/taikoxyz/taiko-mono/commit/ca90a4c3c62b64bbcf48bdc0e4525a0a1259bb12))
+* **nfts:** non-transferable snaefell nfts ([#17373](https://github.com/taikoxyz/taiko-mono/issues/17373)) ([cde9683](https://github.com/taikoxyz/taiko-mono/commit/cde96837b0223eacdcda9e43fe36f4a315f97599))
+* **nfts:** snaefell contracts  ([#17393](https://github.com/taikoxyz/taiko-mono/issues/17393)) ([d51f4bd](https://github.com/taikoxyz/taiko-mono/commit/d51f4bd1cd4cd3910b526afc1ebc0a1fecb215ae))
+* **nfts:** taikoon mainnet deployment ([#17406](https://github.com/taikoxyz/taiko-mono/issues/17406)) ([67a8640](https://github.com/taikoxyz/taiko-mono/commit/67a8640851be1fe3214b530599e785dd4239cbed))
+
+
+### Bug Fixes
+
+* **nfts:** script cleanup for taikoons ([#17404](https://github.com/taikoxyz/taiko-mono/issues/17404)) ([57a66e6](https://github.com/taikoxyz/taiko-mono/commit/57a66e69a1424a2d00daccd7908be9e76eed94ad))
+* **nfts:** taikoon smart contracts mainnet launch - revision 2 ([#17426](https://github.com/taikoxyz/taiko-mono/issues/17426)) ([2933e76](https://github.com/taikoxyz/taiko-mono/commit/2933e76d631a522984ff1dbc5538b13b64448d51))
+* **nfts:** taikoon ui taiko-mainnet deployment ([#17405](https://github.com/taikoxyz/taiko-mono/issues/17405)) ([db40dbd](https://github.com/taikoxyz/taiko-mono/commit/db40dbdf5207dbcaad630d010728a621a644898d))
+* **repo:** fix nfts project build issue ([#17264](https://github.com/taikoxyz/taiko-mono/issues/17264)) ([b658890](https://github.com/taikoxyz/taiko-mono/commit/b65889047a8b898414da0cba0e8584de3add8344))
+
 ## 1.0.0 (2024-05-14)
 
 
