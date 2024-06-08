@@ -1,5 +1,34 @@
 # Changelog
 
+## [0.14.0](https://github.com/taikoxyz/taiko-mono/compare/eventindexer-v0.13.0...eventindexer-v0.14.0) (2024-06-08)
+
+
+### Features
+
+* **bridge-ui:** release  ([#17071](https://github.com/taikoxyz/taiko-mono/issues/17071)) ([2fa3ae0](https://github.com/taikoxyz/taiko-mono/commit/2fa3ae0b2b2317a467709110c381878a3a9f8ec6))
+* **eventindexer:** bindings update ([#16714](https://github.com/taikoxyz/taiko-mono/issues/16714)) ([a9df68c](https://github.com/taikoxyz/taiko-mono/commit/a9df68c044afdaeda7b39a7d568b966377f49592))
+* **eventindexer:** flag typo + delete unused task ([#16703](https://github.com/taikoxyz/taiko-mono/issues/16703)) ([03d610d](https://github.com/taikoxyz/taiko-mono/commit/03d610d8a94e4f1ef52b4c3e5656ed9081b8585f))
+* **eventindexer:** introduce disperser ([#16694](https://github.com/taikoxyz/taiko-mono/issues/16694)) ([977b5cb](https://github.com/taikoxyz/taiko-mono/commit/977b5cbc2eaff986c0a7a7c94e323a91ea1e3ecd))
+* **relayer:** bindings updates for relayer, gp, eventindexer ([#17312](https://github.com/taikoxyz/taiko-mono/issues/17312)) ([3830805](https://github.com/taikoxyz/taiko-mono/commit/38308054e3debf698d789f4886da4f312b6a359e))
+* **relayer:** bridge improvement ([#16752](https://github.com/taikoxyz/taiko-mono/issues/16752)) ([ac93ace](https://github.com/taikoxyz/taiko-mono/commit/ac93acea1ef28e059a5d18630ca8a8b713f4a01a))
+* **relayer:** regen bindings, make changes for stateVars, add isMessageReceived ([#16664](https://github.com/taikoxyz/taiko-mono/issues/16664)) ([66a35e2](https://github.com/taikoxyz/taiko-mono/commit/66a35e29aa3c688ac57ddd40a24b59aef45beff6))
+
+
+### Bug Fixes
+
+* **blobstorage, eventindexer, relayer:** remove username and password ([#16700](https://github.com/taikoxyz/taiko-mono/issues/16700)) ([35adb3d](https://github.com/taikoxyz/taiko-mono/commit/35adb3d7f5a79200573c1f6822586ea221a29dfa))
+* **eventindexer:** add disperser log, remove unused stats from previous testnets ([#16938](https://github.com/taikoxyz/taiko-mono/issues/16938)) ([aec6bca](https://github.com/taikoxyz/taiko-mono/commit/aec6bca19a1d61a98b3c0c554997ae5af2fd749b))
+* **eventindexer:** add some startup logs ([#17276](https://github.com/taikoxyz/taiko-mono/issues/17276)) ([c170497](https://github.com/taikoxyz/taiko-mono/commit/c170497d05732a862d7191fc9ffa0be918dd4078))
+* **eventindexer:** disperser should exit ([#16836](https://github.com/taikoxyz/taiko-mono/issues/16836)) ([5e914d5](https://github.com/taikoxyz/taiko-mono/commit/5e914d58a90d210c9816b92206bbcb897588daa6))
+* **eventindexer:** erc1155 fix ([#17292](https://github.com/taikoxyz/taiko-mono/issues/17292)) ([f5aa4e6](https://github.com/taikoxyz/taiko-mono/commit/f5aa4e640967a679e562a0a5168c7e700c87eca7))
+* **eventindexer:** fix match logic for transferBatchSignatureHash ([#17015](https://github.com/taikoxyz/taiko-mono/issues/17015)) ([84080d4](https://github.com/taikoxyz/taiko-mono/commit/84080d4f2318b9742805deb9d680fa73760a44af))
+* **eventindexer:** nft balance changes should be wrapped in db transaction ([#16943](https://github.com/taikoxyz/taiko-mono/issues/16943)) ([b134161](https://github.com/taikoxyz/taiko-mono/commit/b134161cdbbe05ee6d4b8762a3329d9a9c487f23))
+
+
+### Performance Improvements
+
+* **main:** use errors.New to replace fmt.Errorf with no parameters ([#16777](https://github.com/taikoxyz/taiko-mono/issues/16777)) ([bb0c1ae](https://github.com/taikoxyz/taiko-mono/commit/bb0c1ae3077eeb8558f9bf9b01c5f5a71ec337ba))
+
 ## [0.13.0](https://github.com/taikoxyz/taiko-mono/compare/eventindexer-v0.12.0...eventindexer-v0.13.0) (2023-10-18)
 
 
